@@ -1,0 +1,31 @@
+#award p:before,
+       p:after {
+        content: "";
+        flex:1 1;
+        border-bottom: 2px solid #000;
+        margin: auto;
+        } 
+.card1{
+    height:90px;
+    width:250px;
+    margin-left:300px;
+    position: relative;
+    border:1px solid;
+    border-radius:5px;
+    border-color: grey;
+    padding:9px;
+    display:inline-block;
+    
+}
+.card{
+    height: 90px;
+    width: 250px;
+    margin-left: 20px;
+    position: relative;
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: grey;
+    padding: 9px;
+    display: inline-block;
+
+}
